@@ -1,0 +1,3 @@
+Domain,Path,FirstName,LastName,Office,Title,Description,Department,Company,Phone,StreetAddress,City,State,PostalCode,Password,sAMAccountName,userPrincipalName,DisplayName
+ru.lab,"OU=MyOU,DC=ru,DC=lab",John,Smith,1st Floor,Sales,Ayyy,Sales 2,BC,756-857-9999,u,SLC,UT,10001,P@ssword,JSmith,JSmith@ru.lab,John S
+ru.lab,"OU=MyOU,DC=ru,DC=lab",Jane,Doe,2nd Floor,IT,LMAO,IT,VP,29035729,main,Cola,SC,29205,P@ssword,JDoe,JDoe@ru.lab,Jane D
